@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38770'
     url: http://www.gutenberg.org/2009/agents/38770
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37321#Remarks-on-a-Pamphlet-Lately-published-by-the-Rev.-Mr.-Maskelyne-Under-the-Authority-of-the-B_
 gutenberg_issued: '2011-09-05'
 gutenberg_type: Text
 identifiers:
