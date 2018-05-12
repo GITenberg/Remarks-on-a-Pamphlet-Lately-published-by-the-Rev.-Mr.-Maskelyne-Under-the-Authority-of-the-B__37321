@@ -1,0 +1,30 @@
+_repo: Remarks-on-a-Pamphlet-Lately-published-by-the-Rev.-Mr.-Maskelyne-Under-the-Authority-of-the-B__37321
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Harrison, John
+    birthdate: 1693
+    deathdate: 1776
+    gutenberg_agent_id: '38770'
+    url: http://www.gutenberg.org/2009/agents/38770
+description: ''
+gutenberg_issued: '2011-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Maskelyne, Nevil, 1732-1811. Account of the going of Mr. John Harrison''s
+  watch'
+- !lcc 'QB'
+- !lcsh 'Chronometers -- Early works to 1800'
+- !lcsh 'Longitude -- Early works to 1800'
+title: Remarks on a Pamphlet Lately published by the Rev. Mr. Maskelyne, Under the
+  Authority of the Board of Longitude
+url: http://www.gutenberg.org/ebooks/37321
